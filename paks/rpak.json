@@ -1,0 +1,10 @@
+{
+	"Preload": {
+		"mp_wallkick_loadscreen.rpak": false,
+	},
+	"Aliases": {
+		
+	},
+	"Postload": {
+        }
+}

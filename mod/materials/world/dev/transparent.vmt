@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+    "$basetexture" "world/dev/transparent"
+    "$translucent" "1"
+    "$alpha" "0"
+    "$ignorez" "1"
+    "$nocull" "1"
+}

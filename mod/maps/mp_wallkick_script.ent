@@ -1,0 +1,1829 @@
+ENTITIES01
+{
+"classname" "prop_dynamic"
+"origin" "1514.09 418.96 386.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "2266.09 418.96 386.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "3010.09 418.96 386.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "3754.09 418.96 386.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "4498.09 418.96 386.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "5242.09 418.96 386.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "5986.09 418.96 386.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "6730.09 418.96 386.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "7474.09 418.96 386.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "5242.09 418.96 770.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "5986.09 418.96 770.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "7474.09 418.96 770.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "6730.09 418.96 770.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "2266.09 418.96 770.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "3754.09 418.96 770.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "4498.09 418.96 770.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "3010.09 418.96 770.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "3010.09 418.96 1154.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "5986.09 418.96 1154.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "3754.09 418.96 1154.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "7474.09 418.96 1154.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "6730.09 418.96 1154.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "5242.09 418.96 1154.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "4498.09 418.96 1154.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "8234.09 418.96 386.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "8234.09 418.96 770.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "9722.09 418.96 1154.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "8234.09 418.96 1154.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "9722.09 418.96 386.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "9722.09 418.96 770.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "8978.09 418.96 386.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "8978.09 418.96 770.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "8978.09 418.96 1154.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "10482.1 418.96 770.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "10482.1 418.96 386.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "10482.1 418.96 1154.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "1514.09 418.96 770.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "2266.09 418.96 1154.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "1514.09 418.96 1154.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "12730.1 418.96 770.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "11242.1 418.96 770.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "11242.1 418.96 386.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "12730.1 418.96 386.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "11986.1 418.96 1154.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "11986.1 418.96 386.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "11242.1 418.96 1154.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "13490.1 418.96 770.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "13490.1 418.96 1154.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "11986.1 418.96 770.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "13490.1 418.96 386.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "12730.1 418.96 1154.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "14226.1 418.96 1154.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "14226.1 418.96 770.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "15730.1 418.96 386.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "14970.1 418.96 770.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "14970.1 418.96 386.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "14226.1 418.96 386.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "15730.1 418.96 770.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "15730.1 418.96 1154.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "14970.1 418.96 1154.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "17210.1 418.96 386.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "17210.1 418.96 1154.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "17970.1 418.96 386.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "17970.1 418.96 1154.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "16466.1 418.96 770.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "17210.1 418.96 770.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "16466.1 418.96 386.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "17970.1 418.96 770.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "16466.1 418.96 1154.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "13490.1 418.96 1538.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "16466.1 418.96 1538.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "14970.1 418.96 1538.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "15730.1 418.96 1538.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "17210.1 418.96 1538.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "12730.1 418.96 1538.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "17970.1 418.96 1538.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "14226.1 418.96 1538.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "9730.1 418.96 1538.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "8226.1 418.96 1538.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "8970.1 418.96 1538.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "11226.1 418.96 1538.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "6730.1 418.96 1538.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "11986.1 418.96 1538.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "7490.1 418.96 1538.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "10482.1 418.96 1538.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "5258.1 418.96 1538.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "6018.1 418.96 1538.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "3754.09 418.96 1538.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "3010.09 418.96 1538.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "4498.09 418.96 1538.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "1514.09 418.96 1538.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "2266.09 418.96 1538.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "18738.1 418.96 1154.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "20242.1 418.96 1154.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "18738.1 418.96 386.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "18738.1 418.96 1538.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "19482.1 418.96 770.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "20242.1 418.96 770.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "19482.1 418.96 1154.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "18738.1 418.96 770.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "19482.1 418.96 386.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "20242.1 418.96 386.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "20242.1 418.96 1538.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "19482.1 418.96 1538.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "13490.1 418.96 1922.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "16466.1 418.96 1922.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "14226.1 418.96 1922.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "9730.1 418.96 1922.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "17970.1 418.96 1922.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "14970.1 418.96 1922.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "17210.1 418.96 1922.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "15730.1 418.96 1922.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "12730.1 418.96 1922.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "7490.1 418.96 1922.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "5258.1 418.96 1922.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "6018.1 418.96 1922.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "8970.1 418.96 1922.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "6730.1 418.96 1922.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "11226.1 418.96 1922.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "11986.1 418.96 1922.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "8226.1 418.96 1922.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "10482.1 418.96 1922.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "4498.09 418.96 1922.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "1514.09 418.96 1922.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "3754.09 418.96 1922.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "18738.1 418.96 1922.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "20242.1 418.96 1922.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "19482.1 418.96 1922.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "2266.09 418.96 1922.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "3010.09 418.96 1922.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "-180 180 0"
+}
+{
+"classname" "info_target"
+"origin" "1162 520 80"
+"targetname" "teleport_destination_1"
+"solid" "0"
+"angles" "90 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "6029.9 623 1538.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "13533.9 623 1538.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "8269.9 623 1538.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "9029.9 623 1538.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "3789.9 623 1538.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "6789.9 623 1538.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "4549.9 623 1538.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "5293.9 623 1538.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "10533.9 623 1538.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "9773.9 623 1538.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "7533.9 623 1538.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "14269.9 623 1538.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "15029.9 623 1538.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "12029.9 623 1538.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "12789.9 623 1538.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "19493.9 623 1538.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "1517.9 623 1154.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "18005.9 623 1538.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "18749.9 623 1538.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "16501.9 623 1538.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "17261.9 623 1538.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "20245.9 623 1538.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "3021.9 623 1154.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "11277.9 623 1538.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "15741.9 623 1538.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "10517.9 623 770.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "9773.9 623 1154.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "10517.9 623 1154.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "8269.9 623 770.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "8269.9 623 1154.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "9773.9 623 770.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "6789.9 623 386.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "7533.9 623 386.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "6789.9 623 770.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "6789.9 623 1154.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "4549.9 623 386.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "6029.9 623 1154.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "4549.9 623 1154.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "5293.9 623 770.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "8269.9 623 386.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "9029.9 623 386.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "6029.9 623 386.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "6029.9 623 770.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "4549.9 623 770.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "9029.9 623 1154.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "9773.9 623 386.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "3789.9 623 1154.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "7533.9 623 770.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "3789.9 623 386.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "7533.9 623 1154.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "10517.9 623 386.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "5293.9 623 386.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "3789.9 623 770.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "5293.9 623 1154.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "20245.9 623 386.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "19493.9 623 386.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "17261.9 623 386.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "16517.9 623 386.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "15029.9 623 386.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "14285.9 623 386.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "16517.9 623 770.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "14285.9 623 770.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "15773.9 623 770.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "15029.9 623 770.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "18749.9 623 386.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "18005.9 623 386.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "19493.9 623 770.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "15773.9 623 386.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "18749.9 623 770.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "18005.9 623 770.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "15773.9 623 1154.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "18005.9 623 1154.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "14285.9 623 1154.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "15029.9 623 1154.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "17261.9 623 1154.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "16517.9 623 1154.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "13525.9 623 386.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "13525.9 623 770.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "18749.9 623 1154.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "17261.9 623 770.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "12037.9 623 1154.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "13525.9 623 1154.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "12037.9 623 386.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "12037.9 623 770.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "12781.9 623 386.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "12781.9 623 770.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "12781.9 623 1154.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "11277.9 623 770.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "9029.9 623 770.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "11277.9 623 1154.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "20245.9 623 770.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "11277.9 623 386.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "19493.9 623 1154.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "20245.9 623 1154.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "20245.9 623 1922.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "2277.9 623 386.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "5293.9 623 1922.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "6789.9 623 1922.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "9029.9 623 1922.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "11277.9 623 1922.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "6029.9 623 1922.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "3021.9 623 770.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "9773.9 623 1922.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "3021.9 623 1922.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "15029.9 623 1922.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "14269.9 623 1922.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "12029.9 623 1922.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "3789.9 623 1922.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "3021.9 623 386.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "1517.9 623 386.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "2277.9 623 1154.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "3021.9 623 1538.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "2277.9 623 770.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "4549.9 623 1922.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "15741.9 623 1922.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "10533.9 623 1922.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "1517.9 623 1538.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "13533.9 623 1922.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "17261.9 623 1922.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "1517.9 623 770.619"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "2277.9 623 1538.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "16501.9 623 1922.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "7533.9 623 1922.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "8269.9 623 1922.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "12789.9 623 1922.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "18005.9 623 1922.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "1517.9 623 1922.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "2277.9 623 1922.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "19493.9 623 1922.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+{
+"classname" "prop_dynamic"
+"origin" "18749.9 623 1922.62"
+"model" "models/beacon/crane_wallrun_panel_01.mdl"
+"solid" "6"
+"angles" "180 0 0"
+}
+ 

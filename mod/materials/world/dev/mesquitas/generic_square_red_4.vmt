@@ -1,0 +1,5 @@
+LightmappedGeneric
+{
+	$basetexture world/dev/mesquitas/generic_square_red_4
+	$surfaceprop concrete
+}

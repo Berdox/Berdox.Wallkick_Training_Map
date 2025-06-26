@@ -1,0 +1,28 @@
+{
+	"Name" : "Berdox.mp_wallkick",
+	"Description": "",
+	"Version": "1.0.0",
+	"LoadPriority": 1,
+	"RequiredOnClient": true,
+	
+	"Scripts": [
+		{
+			"Path": "lobby/sh_private_lobby_mp_wallkick.gnut",
+			"RunOn": "( CLIENT || SERVER ) && MP",
+			"ClientCallback": {
+				"Before": "PrivateLobbyAddMpWallKickMap"
+			},
+			"ServerCallback": {
+				"Before": "PrivateLobbyAddMpWallKickMap"
+			}
+		},
+		{
+			"Path": "sv_teleport.nut",
+			"RunOn": "SERVER",
+			"ServerCallback": {
+				"After": "TeleportInitThread"
+			}
+		}
+
+	]
+}

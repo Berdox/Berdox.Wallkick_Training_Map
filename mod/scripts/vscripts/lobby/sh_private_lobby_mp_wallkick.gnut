@@ -1,0 +1,11 @@
+global function PrivateLobbyAddMpWallKickMap
+
+void function PrivateLobbyAddMpWallKickMap()
+{
+	AddCallback_OnCustomGamemodesInit( AddMapToPrivateMatchWhenReady )
+}
+
+void function AddMapToPrivateMatchWhenReady()
+{
+    AddPrivateMatchMap( "mp_wallkick" )     
+}
