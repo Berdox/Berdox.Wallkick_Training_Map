@@ -1,4 +1,4 @@
-# Berdox.Wallkick-_Training_Map
+# Berdox.Wallkick_Training_Map
 
 ## Custom Map for Titanfall 2
 - When you hit the end of the map it will teleport you back to the beginning
