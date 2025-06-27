@@ -1,5 +1,0 @@
-1. updatexyz.py on .map
-2. swapxyz.py on .map
-3. swap_prop.py on .map
-4. build bsp in radiant
-5. Run ps1 script to move files
